@@ -11,7 +11,7 @@ To get started with the project, follow these steps:
 
 2. Add your personal token to `.env.local`:
    ```
-   PERSONAL_TOKEN=your_personal_token_here
+   GITHUB_PERSONAL_TOKEN=your_personal_token_here
    ```
 
 3. Start the application:
